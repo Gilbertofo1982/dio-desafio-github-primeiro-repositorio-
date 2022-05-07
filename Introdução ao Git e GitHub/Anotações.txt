@@ -1,0 +1,4 @@
+Link para Download do Git: https://git-scm.com/downloads
+O Git Bach é um terminal extendido para otimizar o uso do Git.
+
+Sintaxe Básicas Markdown link: https://www.markdownguide.org/basic-syntax/
